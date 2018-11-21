@@ -24,5 +24,5 @@ Test Test::say(string word)
 
 int main() {
   Test Obj;
-  Obj.say("Hello").say("my").say("name").say("is").say("Colette").say();
+  Obj.say("This").say("program").say("works").say();
 }
